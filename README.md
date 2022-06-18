@@ -1,4 +1,4 @@
-### Hello 👋 my name's Ryan. I am a Software Developer.
+### Hello 👋 my name's Ryan. I am a Software Engineer.
 
 BIO:
 
