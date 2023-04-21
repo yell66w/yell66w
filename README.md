@@ -2,7 +2,6 @@
 
 BIO:
 
-- 🌱 I’m currently learning software design and architecture. 
 - ⚙️ I use daily: .jsx, .tsx, .scss, .html, .php, .dart
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about Web and Mobile Development
